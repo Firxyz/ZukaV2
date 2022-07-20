@@ -7,6 +7,7 @@ Zukashika
 Kannachann
 The.sad.Boy01
 Rasel comel
+FirXyz
 Xtreshe (Beban)
 Dll
 */
@@ -42,33 +43,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     
 
 /*============== SOCIAL ==============*/
-global.sig = 'https://instagram.com/lampu_philips267'
-global.sgh = 'https://github.com/BaraXD'
+global.sig = 'https://instagram.com/firxyz'
+global.sgh = 'https://github.com/Firxyz'
 global.sgc = 'https://chat.whatsapp.com/JXlb6mMlQai77uQSXcmv5T'
-global.sdc = 'https://t.me/BotzzMeeOFC'
-global.snh = 'wa.me/6283174508962'
+global.sdc = 'https://t.me/Fir Xyz'
+global.snh = 'wa.me/6285806459088'
 
 /*============== PAYMENT ==============*/
-global.pdana = '083174508962'
-global.povo = '083174508962'
-global.pgopay = '083174508962'
-global.ppulsa = '083174508962'
-global.ppulsa2 = '08979530736'
-global.psaweria = 'https://saweria.co/BaraXDz'
+global.pdana = '6285806459088'
+global.povo = '6285806459088'
+global.pgopay = '6285806459088'
+global.ppulsa = '6285806459088'
+global.ppulsa2 = '6285806459088'
+global.psaweria = 'https://saweria.co/FirXyz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '628979530736'
-global.nomorown = '6283174508962'
-global.namebot = 'BotzzMee'
-global.nameown = 'ZukashikaⒸ︎'
+global.nomorbot = '6285806459088'
+global.nomorown = '6285806459088'
+global.namebot = 'RisXyz'
+global.nameown = 'Ⓒ︎FirXyz'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283174508962'],
-  ['6283174508962'],
-  ['6283174508962'],
-  ['6283174508962', 'BotzzMee', true]
+  ['6285806459088'],
+  ['6285806459088'],
+  ['6285806459088'],
+  ['6285806459088', 'RisXyz', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -113,13 +114,13 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'BotzzMee' //Main Watermark
-global.wm2 = 'Halo kak Selamat datang di BotzzMee👋'
-global.wm3 = '☘︎ BotzzMee'
+global.wm = 'RisXyz' //Main Watermark
+global.wm2 = 'Halo kak Selamat datang di BotzRixXyz👋'
+global.wm3 = '☘︎FirXyz '
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `☘︎ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰𝗲| By ${global.nameown}`
-global.author = 'ZukaShikaⒸ︎' 
+global.author = 'FirXyzⒸ︎' 
 
 
 /*============== LOGO ==============*/
